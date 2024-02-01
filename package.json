@@ -1,0 +1,25 @@
+{
+  "name": "tiptap-extension-line-height",
+  "version": "1.0.0",
+  "description": "A line-height extension for tiptap paragraph.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tiptap",
+    "extension",
+    "line-height",
+    "paragraph"
+  ],
+  "author": "kid-1912",
+  "homepage": "https://github.com/KID-1912/tiptap-extension-line-height",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KID-1912/tiptap-extension-line-height.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@tiptap/core": "^2.2.1"
+  }
+}
