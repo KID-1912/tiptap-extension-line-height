@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-  <a line-heightef="https://www.npmjs.com/package/tiptap-extension-line-height">
+  <a href="https://www.npmjs.com/package/tiptap-extension-line-height">
     <img
      alt="NPM URL"
      src="https://img.shields.io/badge/npm-tiptapExtensionLineHeight?logo=npm">
